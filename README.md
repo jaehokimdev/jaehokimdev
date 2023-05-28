@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&pause=10000000&center=true&width=435&lines=Jaeho+Kim" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Full-stack+Web+developer;Always+learning+new+things!" alt="Typing SVG" /></a>
+</p>
+
+Hello 👋, my name is [Jaeho Kim](https://github.com/jaehokimdev) and I graduated at [SAIT](https://www.sait.ca) majoring in Software development.
+
+- 🔭 I’m currently looking for front-end, back-end or full-stack job
+- 📫 How to reach me: jaeho.kim.dev@gamil.com
+- 📝 [Resume](http://resume.thejaehokim.com)
+
+
 <h2>Skiills:</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
