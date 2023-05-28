@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=435&lines=Full-stack+Web+developer;Always+learning+new+things!" alt="Typing SVG" /></a>
 </p>
 
-Hello 👋, my name is [Jaeho Kim](https://github.com/jaehokimdev) and I graduated at [SAIT](https://www.sait.ca) majoring in Software development.
+Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">, my name is [Jaeho Kim](https://github.com/jaehokimdev) and I graduated at [SAIT](https://www.sait.ca) majoring in Software development.
 
 - 🔭 I’m currently looking for front-end, back-end or full-stack job
 - 📫 How to reach me: jaeho.kim.dev@gamil.com
