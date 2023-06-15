@@ -10,7 +10,7 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 
 - 🔭 I’m currently looking for front-end, back-end or full-stack job
 - 📫 How to reach me: jaeho.kim.dev@gamil.com
-- 📝 [Resume](http://resume.thejaehokim.com)
+- 📝 [Resume](http://thejaehokim.com)
 
 
 <h2>Skiills:</h2>
