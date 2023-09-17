@@ -40,4 +40,3 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 ![Jaeho's Github Stats](https://github-readme-stats.vercel.app/api?username=jaehokimdev&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green)
 ![TOP-LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehokimdev&theme=blue-green)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jaehokimdev.visitor-badge.issue.1)
