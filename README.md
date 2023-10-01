@@ -37,6 +37,5 @@ Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widt
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-![Jaeho's Github Stats](https://github-readme-stats.vercel.app/api?username=jaehokimdev&count_private=true&show_icons=true&include_all_commits=true&theme=blue-green)
 ![TOP-LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=jaehokimdev&theme=blue-green)
 
